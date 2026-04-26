@@ -1,8 +1,16 @@
 # Malu Braid — Landing Page
 
-**URL:** [https://malu-braid.landingpro.app.br/](https://malu-braid.landingpro.app.br/)  
-**Tipo:** Landing page institucional  
-**Finalidade:** Apresentação de serviços de trançamento capilar e captação de leads via WhatsApp.
+## 🌐 Demo
+
+[🔗 **Acessar a landing page**](https://malu-braid.landingpro.app.br/)
+
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="./public/demo.png" alt="Preview da landing page" width="800"/>
+</p>
 
 ---
 
